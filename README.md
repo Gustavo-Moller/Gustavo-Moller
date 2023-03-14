@@ -9,11 +9,10 @@
   <img align="center" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
   <img align="center" alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <img align="center" alt="figma" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  
   <div>
-<a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Gustavo-Moller-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?Gustavo-Moller-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+  <a href="https://github.com/Gustavo-Moller">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Moller&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Moller&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </div>
 
 </div><br/>
