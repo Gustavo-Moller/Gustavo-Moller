@@ -18,4 +18,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Moller&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </div>
     
-<div class="tenor-gif-embed" data-postid="23663947" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/skull-gif-23663947">Skull GIF</a>from <a href="https://tenor.com/search/skull-gifs">Skull GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+    
