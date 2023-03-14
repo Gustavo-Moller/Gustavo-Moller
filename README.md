@@ -9,12 +9,13 @@
   <img align="center" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
   <img align="center" alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <img align="center" alt="figma" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </div>
+    <br>
+    <br>
   <div>
-    <br>
-    <br>
   <a href="https://github.com/Gustavo-Moller">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Moller&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Moller&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </div>
-
-</div><br/>
+    
+<div class="tenor-gif-embed" data-postid="23663947" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/skull-gif-23663947">Skull GIF</a>from <a href="https://tenor.com/search/skull-gifs">Skull GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
